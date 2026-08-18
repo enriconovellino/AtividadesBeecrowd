@@ -13,6 +13,6 @@ public class Main {
         String b =   input.next();
         String c =    input.next();
 
-        torre.deHanoia(n,a,b,c);
+        torre.deHanoi(n,a,b,c);
     }
 }

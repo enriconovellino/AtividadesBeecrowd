@@ -2,9 +2,13 @@ package Soma;
 
 public class Soma {
     public int somaEmSequencia(int n) {
-        int soma = 0;
+        /*
         if(n == 0) {
             return n;
+        } Não faz sentido
+         */
+        if(n == 1) {
+            return 1;
         }
         return n + somaEmSequencia(n - 1);
     }

@@ -11,7 +11,7 @@ public class Main {
 
         //System.out.println(dois.elevadoA(k));
 
-        Elevacao elevacaoDeNumeros = new Elevacao();
+         Elevacao elevacaoDeNumeros = new Elevacao();
 
          int numero = input.nextInt();
          int n = input.nextInt();
