@@ -7,8 +7,4 @@ public class Euclides {
         }
         return f(b, a%b );
     }
-
-    /*
-    8 12
-     */
 }
